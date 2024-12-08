@@ -1,9 +1,9 @@
-Template includes - 
+## Template includes - 
 
-Next JS 15 template - cleaned up boilerplate.
+#### Next JS 15 template - cleaned up boilerplate.
 
-Shadcn components.
+#### Shadcn components.
 
-Poppins font setup in layout.tsx.
+#### Poppins font setup in layout.tsx.
 
-Uses TypeScript, Tailwind, App Router, src default folder, ES Lint. Turbopack not part of setup nor aliases.
+###### Uses TypeScript, Tailwind, App Router, src default folder, ES Lint. Turbopack not part of setup nor aliases.
